@@ -21,13 +21,13 @@ Softwares and tools used:
 	Google Colab for running python codes & Codeevny(IDE)
         
 Languages & Libraries:		
-  Javascript , HTML, CSS & Bootstrap
+  	Javascript , HTML, CSS & Bootstrap
 Python Libraries: 
-   numpy, pandas, NLTK , flask, chatterbot,chatterbot_corpus
+   	numpy, pandas, NLTK , flask, chatterbot,chatterbot_corpus
 Messaging Interface:	
-   Web Widget for website – Flask
+   	Web Widget for website – Flask
 Visualization Charts :			
-    Tableau Public dashboards embeded
+    	Tableau Public dashboards embeded
 Analytics and Human Takeover:
 	Kommunicate
 API & logos:
