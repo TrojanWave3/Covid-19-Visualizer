@@ -14,26 +14,26 @@ or
 # Tech Stack
 
 #### Algorithms:  
-	Natural Language Processing &nbsp;
+	Natural Language Processing
 	Sentence Matching Algorithm
 
 #### Softwares and tools used:  
 	Anaconda-Jupiter
 	Google Colab for running python codes & Codeevny(IDE)
         
-Languages & Libraries:		
+#### Languages & Libraries:		
   	Javascript , HTML, CSS & Bootstrap
-Python Libraries: 
+#### Python Libraries: 
    	numpy, pandas, NLTK , flask, chatterbot,chatterbot_corpus
-Messaging Interface:	
+#### Messaging Interface:	
    	Web Widget for website – Flask
-Visualization Charts :			
+#### Visualization Charts :			
     	Tableau Public dashboards embeded
-Analytics and Human Takeover:
+#### Analytics and Human Takeover:
 	Kommunicate
-API & logos:
+#### API & logos:
 	Google maps-finding present geolocation & Canva-logos.
-Database and Cloud Platform used:
+#### Database and Cloud Platform used:
 	Sql-Alchemy Core-: Sql-lite
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
