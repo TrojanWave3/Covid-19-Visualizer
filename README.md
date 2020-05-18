@@ -1,5 +1,6 @@
 # Covid-19-Visualizer
-A Web Portal For COVID-19 With Data Visualization Charts To Help People Understand The Various Types Of Statistics Like Spread Rate In Past Week/Month along with Latest News Updates, Symptoms, Preventive Measures Which Can Help People Better Understand The Seriousness Of Spread. Also Consist Of A Built-In Chatbot To Cater to The User's Queries.
+A Web Portal For COVID-19 With Data Visualization Charts To Help People Understand The Various Types Of Statistics Like Spread Rate In Past Week/Month along with Latest News Updates, Symptoms, Preventive Measures Which Can Help People Better Understand The Seriousness Of Spread.
+Also Consist Of A Built-In Chatbot To Cater to The User's Queries.
 # Requirements
 `pip install Flask`
 
@@ -38,4 +39,7 @@ Database and Cloud Platform used:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Meta
+Team TroJan Wave – TrojanWave.veltech@gmail.com
 
