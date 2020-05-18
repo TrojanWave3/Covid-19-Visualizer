@@ -13,11 +13,11 @@ or
 `pip install -r requirements.txt`
 # Tech Stack
 
-####Algorithms:
-	Natural Language Processing
+#### Algorithms:  
+	Natural Language Processing &nbsp;
 	Sentence Matching Algorithm
 
-####Softwares and tools used:
+#### Softwares and tools used:  
 	Anaconda-Jupiter
 	Google Colab for running python codes & Codeevny(IDE)
         
