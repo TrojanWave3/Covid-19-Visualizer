@@ -27,7 +27,7 @@ or
    	numpy, pandas, NLTK , flask, chatterbot,chatterbot_corpus
 #### Messaging Interface:	
    	Web Widget for website – Flask
-#### Visualization Charts :			
+#### Visualization Charts:			
     	Tableau Public dashboards embeded
 #### Analytics and Human Takeover:
 	Kommunicate
